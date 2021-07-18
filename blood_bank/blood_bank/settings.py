@@ -55,7 +55,7 @@ ROOT_URLCONF = 'blood_bank.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\rutuj\PycharmProjects\ACP BLOOD BANK\blood_bank\templates'],
+        'DIRS': [r'Absolute path of the templates directory in your project'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
